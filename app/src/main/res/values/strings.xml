@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Taking Notes App</string>
+    <string name="splash_text">Welcome to Taking Notes App</string>
+    <string name="add_note">Add Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="title_hint">Enter title</string>
+    <string name="description_hint">Enter description</string>
+    <string name="save_note">Save</string>
+    <string name="update_note">Update</string>
+    <string name="delete_note">Delete</string>
+    <string name="no_notes">No notes available</string>
+</resources>
